@@ -1,0 +1,9 @@
+Version 1.0.2 29-06-2015
+- Updated the prettyPhoto library to 3.1.6 from 3.1.5
+- Files Changed: all prettyPhoto library files
+
+Version 1.0.1 15-11-2014
+- Fixed portfolio lightbox bug
+- Files Changed: portfolio.html
+- Files/Folders Added: javascripts/jquery-migrate-1.0.0.js
+
