@@ -28,15 +28,15 @@ nav li.links.current-menu-item a > span            { padding-left: 38px; }
 .topAddress                             { float: right; width: 220px; margin-top: 20px; margin-right: 20px; }
 .innerContainer                         { margin-left: 90px; width: 690px; }
 .desc                                   { min-height: 23px; margin: 20px 0; }
-.subnavContainer div div                { float: left; margin-right: 69px; }
+.subnavContainer div div                { float: left; margin-right: 55px; }
 .subnavContainer .invert                { display: inline-block; width: 48px; height: 48px; margin-bottom: 5px; }
 .sidebar                                { float: right; width: 190px; min-height: 330px; margin-top: 20px; margin-right: 40px; }
-.sidebar address                        { margin-top: 30px; }
+.sidebar address                        { margin-top: 10px; margin-left: 10px }
 .subscribe                              { margin-top: 5px; }
 .subscribe img                          { margin-left: 5px; }
-.social                                 { margin-top: 5px; }
+.social                                 { margin-top: 10px; margin-left: 10px; }
 .social img                             { margin-left: 5px; }
-.twitter-updates                        { margin-top: 15px; }
+.twitter-updates                        { margin-top: 10px; }
 .twitter-updates ul                     { margin-top: 10px; }
 .twitter-updates li                     { padding-left: 16px; }
 .twitter-updates span                   { display: block; }
@@ -47,7 +47,7 @@ nav li.links.current-menu-item a > span            { padding-left: 38px; }
 footer                                  { clear: both; margin-left: 40px; padding-top: 10px; background: url('../images/shadow-footer-960.png') no-repeat 0px 0px; }
 
 /* Profile */
-.profile .sidebar                       { float: right; width: 220px; min-height: 330px; margin-top: 20px; margin-right: 20px; }
+.profile .sidebar                       { float: right; width: 250px; min-height: 330px; margin-top: 10px; margin-right: 10px; }
 
 /* Resume */
 .personalDev li                         { padding-top: 5px; margin-bottom: 15px; }
