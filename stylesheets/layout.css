@@ -25,18 +25,19 @@ nav li.links.current-menu-item a > span            { padding-left: 38px; }
 .info                                   { float: left; width: 470px; margin-top: 30px; margin-left: 90px; }
 .head img                               { float: left; margin-right: 15px; width: 110px; height: 110px; }
 .head .name                             { float: left; padding-top: 30px; font-size: 40px; }
-.topAddress                             { float: right; width: 220px; margin-top: 20px; margin-right: 20px; }
+.topAddress                             { float: right; width: 240px; margin-top: 10px; margin-right: 10px;}
 .innerContainer                         { margin-left: 90px; width: 690px; }
 .desc                                   { min-height: 23px; margin: 20px 0; }
 .subnavContainer div div                { float: left; margin-right: 55px; }
 .subnavContainer .invert                { display: inline-block; width: 48px; height: 48px; margin-bottom: 5px; }
 .sidebar                                { float: right; width: 190px; min-height: 330px; margin-top: 20px; margin-right: 40px; }
 .sidebar address                        { margin-top: 10px; margin-left: 10px }
+.topAddress address 			{ margin-top: 10px; margin-left: 10px;}
 .subscribe                              { margin-top: 5px; }
 .subscribe img                          { margin-left: 5px; }
 .social                                 { margin-top: 10px; margin-left: 10px; }
 .social img                             { margin-left: 5px; }
-.twitter-updates                        { margin-top: 10px; }
+.twitter-updates                        { margin-top: 10px; margin-left: 10px; }
 .twitter-updates ul                     { margin-top: 10px; }
 .twitter-updates li                     { padding-left: 16px; }
 .twitter-updates span                   { display: block; }
@@ -50,6 +51,7 @@ footer                                  { clear: both; margin-left: 40px; paddin
 .profile .sidebar                       { float: right; width: 250px; min-height: 330px; margin-top: 10px; margin-right: 10px; }
 
 /* Resume */
+.resume .topAddress                     { float: right; width: 250px; margin-top: 10px; margin-right: 10px; }
 .personalDev li                         { padding-top: 5px; margin-bottom: 15px; }
 .personalDev .time                      { float: right; }
 .skills li                              { padding-top: 5px; }
@@ -61,6 +63,7 @@ footer                                  { clear: both; margin-left: 40px; paddin
 .skills .description                    { display: inline-block; margin-left: 10px; }
 
 /* Portfolio  */
+.portfolio .topAddress                  { float: right; width: 250px; margin-top: 10px; margin-right: 10px; }
 .portfolio-items .filter				{ margin:40px 0 10px 0;}
 .portfolio-items .filter li             { float: left; margin: 0 10px 10px 0; }
 .portfolio-items .filter li a           { padding-left: 7px; padding-right: 7px; height: 30px; display: block; }
