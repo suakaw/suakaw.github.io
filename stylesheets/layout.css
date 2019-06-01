@@ -8,7 +8,7 @@ nav li                                  { padding-left: 5px; margin-bottom: 5px;
 nav li a span                           { width: 100%; height: 100%; display: inline-block; }
 nav li a span span                      { visibility: hidden; }
 nav li.current-menu-item                           { padding-left: 0px; }
-nav li.current-menu-item a                         { width: 100px; height: 40px; }
+nav li.current-menu-item a                         { width: 120px; height: 40px; }
 nav li.current-menu-item a span span               { visibility: visible; }
 nav li.profile.current-menu-item a > span          { padding-left: 39px; }
 nav li.resume.current-menu-item a > span           { padding-left: 38px; }
