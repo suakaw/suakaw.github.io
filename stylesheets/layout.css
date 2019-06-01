@@ -25,9 +25,9 @@ nav li.links.current-menu-item a > span            { padding-left: 38px; }
 .info                                   { float: left; width: 470px; margin-top: 30px; margin-left: 90px; }
 .head img                               { float: left; margin-right: 15px; width: 110px; height: 110px; }
 .head .name                             { float: left; padding-top: 30px; font-size: 40px; }
-.topAddress                             { float: right; width: 190px; margin-top: 30px; margin-right: 40px; }
+.topAddress                             { float: right; width: 220px; margin-top: 20px; margin-right: 20px; }
 .innerContainer                         { margin-left: 90px; width: 690px; }
-.desc                                   { min-height: 80px; margin: 20px 0; }
+.desc                                   { min-height: 23px; margin: 20px 0; }
 .subnavContainer div div                { float: left; margin-right: 69px; }
 .subnavContainer .invert                { display: inline-block; width: 48px; height: 48px; margin-bottom: 5px; }
 .sidebar                                { float: right; width: 190px; min-height: 330px; margin-top: 20px; margin-right: 40px; }
@@ -47,7 +47,7 @@ nav li.links.current-menu-item a > span            { padding-left: 38px; }
 footer                                  { clear: both; margin-left: 40px; padding-top: 10px; background: url('../images/shadow-footer-960.png') no-repeat 0px 0px; }
 
 /* Profile */
-.profile .sidebar                       { float: right; width: 190px; min-height: 330px; margin-top: 20px; margin-right: 40px; }
+.profile .sidebar                       { float: right; width: 220px; min-height: 330px; margin-top: 20px; margin-right: 20px; }
 
 /* Resume */
 .personalDev li                         { padding-top: 5px; margin-bottom: 15px; }
