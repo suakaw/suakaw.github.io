@@ -67,7 +67,7 @@ footer                                  { clear: both; margin-left: 40px; paddin
 .portfolio-items .filter				{ margin:40px 0 10px 0;}
 .portfolio-items .filter li             { float: left; margin: 0 10px 10px 0; }
 .portfolio-items .filter li a           { padding-left: 7px; padding-right: 7px; height: 30px; display: block; }
-.portfolio-items .items li              { margin-right: 20px; margin-bottom: 20px; width: 210px; float: left; }
+.portfolio-items .items li              { margin-right: 10px; margin-bottom: 10px; width: 670px; float: left; }
 .portfolio-items .items li.item-hidden	{ display: none; }
 .portfolio-items .items li .title       { display: block; }
 .portfolio-items .items li .desc        { min-height: 0px; margin: 0px; }

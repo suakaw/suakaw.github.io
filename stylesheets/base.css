@@ -137,7 +137,7 @@ pre {
 	ul.disc { list-style: disc outside; }
 	.list { margin: 4px 0 20px 30px; font-size: 90%;  }
 	.list li { margin-bottom: 6px; }
-	li { line-height: 18px; margin-bottom: 12px; }
+	li { line-height: 20px; }
 	.large li { line-height: 21px; }
 	li p { line-height: 21px; }
     .arrow { list-style-image: url("../images/list-arrow.fw.png"); }
